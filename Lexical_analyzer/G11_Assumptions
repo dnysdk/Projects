@@ -1,0 +1,16 @@
+#group 11
+# dnyaneshwar shendurwadkar 1401CS43
+# vishnukant reddy 1401CS10
+# venkatesh 1401CS32
+
+
+Program will ask for input file name first
+
+
+
+Assumptions :- 
+	space is used as delimeter. So, write a code using space between any two tokens.
+Eg. int a , b ;
+    if ( b > 0 ) {
+      b = 0 ;
+    }
